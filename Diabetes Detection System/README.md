@@ -107,11 +107,11 @@ jupyter notebook diabetics_detection.ipynb
 ## 📂 Project Structure
 
 ```
-Diabetes-Detection/
+Diabetes-Detection
 │
-├── diabetics_detection.ipynb
-├── diabetes.csv
 ├── README.md
+├── diabetes.csv
+└── diabetics_detection.ipynb
 ```
 
 ---
