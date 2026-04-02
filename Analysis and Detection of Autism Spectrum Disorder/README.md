@@ -72,6 +72,8 @@ It predicts Autism Spectrum Disorder (ASD) using multiple algorithms and provide
 ### 📈 Graph Output
 ![Graph](screnshots/4.png)
 
+### Test data
+![Test](screnshots/11.png)
 ---
 
 ## ⚠️ Important Note
