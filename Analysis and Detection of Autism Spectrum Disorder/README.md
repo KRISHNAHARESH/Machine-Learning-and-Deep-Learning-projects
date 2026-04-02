@@ -42,11 +42,11 @@ It predicts Autism Spectrum Disorder (ASD) using multiple algorithms and provide
 
 ---
 
-## 📊 Dataset
-- Autism dataset (CSV format)
-- 704 records
-- 21 features
-- Output: YES / NO
+## 📂 Dataset Files
+
+The project includes the following datasets:
+- `Autism-Adult-Data.csv` → Training dataset  
+- `testData.csv` → Sample test dataset
 
 ---
 
