@@ -61,16 +61,16 @@ It predicts Autism Spectrum Disorder (ASD) using multiple algorithms and provide
 ## 📸 Screenshots
 
 ### 📂 Upload Dataset
-![Upload Dataset](screenshots/1.png)
+![Upload Dataset](screnshots/1.png)
 
 ### ⚙️ Preprocess Data
-![Preprocess](screenshots/2.png)
+![Preprocess](screnshots/2.png)
 
 ### 📊 Results Output
-![Results](screenshots/3.png)
+![Results](screnshots/3.png)
 
 ### 📈 Graph Output
-![Graph](screenshots/4.png)
+![Graph](screnshots/4.png)
 
 ---
 
