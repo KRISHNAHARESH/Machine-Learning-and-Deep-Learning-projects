@@ -73,7 +73,15 @@ It predicts Autism Spectrum Disorder (ASD) using multiple algorithms and provide
 ![Graph](screnshots/4.png)
 
 ### Test data
+![Graph](screnshots/10.png)
+
 ![Test](screnshots/11.png)
+
+### All Algorthims Performed graph
+![Graph](screnshots/12.png)
+
+### ConvTransNet Training graph
+![Graph](screnshots/13.png)
 ---
 
 ## ⚠️ Important Note
@@ -84,7 +92,3 @@ Using higher versions (3.10+) may cause compatibility issues with TensorFlow and
 
 ## 👨‍💻 Author
 **Haresh**
-
-## ▶️ How to Run
-1. Install Python 3.7.0  
-2. Install required libraries:
